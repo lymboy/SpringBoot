@@ -7,6 +7,8 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spring-boot-hello-quicker" />
+        <module name="spring-boot-log" />
+        <module name="spring-boot-yaml" />
         <module name="SpringBootHello" />
       </profile>
     </annotationProcessing>

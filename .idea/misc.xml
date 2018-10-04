@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-hello-quicker/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-log/pom.xml" />
       </list>
     </option>
   </component>

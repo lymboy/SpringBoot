@@ -1,0 +1,11 @@
+#person:
+#  lastName: zhangsan
+#  age: 18
+#  maps: {k1: v1, color: red}
+#  lists:
+#    - 100
+#    - 200
+#    - 300
+#  pet:
+#    name: 花猪
+#    age: 3
